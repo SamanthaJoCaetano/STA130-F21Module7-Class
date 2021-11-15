@@ -45,6 +45,9 @@ Do you think this fitted linear model is effectively representing the associatio
 library(broom)
 
 # What about an interaction term?
+
+
+## go to pollev.com/sta to make a prediction using this model!
 ```
 
 # Comparing the prediction accuracy of multiple models
